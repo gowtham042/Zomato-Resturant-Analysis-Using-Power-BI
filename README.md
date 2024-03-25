@@ -93,9 +93,7 @@ where navigation between pages has been made very easy.
 8)    They want their users to be able to access this report using a web browser as well as their phone devices.
 
 
-Files Required for Project
-All the files required to complete this project can be found in the Google drive link mentioned below.
-https://github.com/Simplilearn-Edu/Power-BI-Datasets.git
+
 
 
 
